@@ -1,0 +1,1 @@
+En esta se crea una un directorio en el que se crea un readme.md y un archvio hello ubuntu y se sube al repo en Github 
